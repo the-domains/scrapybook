@@ -1,0 +1,23 @@
+name: scrapybook
+favicon: null
+layout_spectrum: 0.2968458270188421
+typography_spectrum: 0.8086619281675667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6725816854741424
+  lightness: 0.7473889808170497
+  saturation: 0.9919167580083013
+  rhythmicContrast: 0.7755893596913666
+purpose: []
